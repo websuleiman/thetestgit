@@ -2,3 +2,4 @@
 *.log
 main.log
 bin/
+/apples
